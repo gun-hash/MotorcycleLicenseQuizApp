@@ -1,0 +1,662 @@
+[   {
+        "id": "1",
+        "question" : "In Nepal, what is the minimum age requirement for obtaining a motorcycle license?",
+        "options": [
+            "16 years",
+            "18 years",
+            "20 years",
+            "22 years"
+        ],
+        "answer": "16 years"
+    },
+    {
+        "id": "2",
+        "question" : "When riding a motorcycle, what is the most important safety gear to wear?",
+        "options": [
+            "Gloves",
+            "Jacket",
+            "Helmet",
+            "Boots"
+        ],
+        "answer": "Helmet"
+    },
+    {
+        "id": "3",
+        "question" : "What should you do at a 'Stop' sign?",
+        "options": [
+            "Slow down and proceed with caution",
+            "Come to a complete stop and proceed when it's safe",
+            "Ignore the sign if the road is clear",
+            "Honk and proceed"
+        ],
+        "answer": "Come to a complete stop and proceed when it's safe"
+    },
+    {
+        "id": "4",
+        "question" : "What does a red traffic light indicate?",
+        "options": [
+            "Go",
+            "Proceed with caution",
+            "Stop",
+            "Slow down"
+        ],
+        "answer": "Stop"
+    },
+    {
+        "id": "5",
+        "question" : "When carrying a passenger on your motorcycle, where should they sit?",
+        "options": [
+            "In front of the rider",
+            "On the rear seat behind the rider",
+            "On the handlebars",
+            "Anywhere on the motorcycle"
+        ],
+        "answer": "On the rear seat behind the rider"
+    },
+    {
+        "id": "6",
+        "question" : "What should you do if you encounter a pothole on the road?",
+        "options": [
+            "Accelerate to go over it quickly",
+            "Swerve to avoid it",
+            "Brake hard",
+            "Gradually reduce speed and ride straight over it"
+        ],
+        "answer": "Gradually reduce speed and ride straight over it"
+    },
+    {
+        "id": "7",
+        "question" : "When riding a motorcycle, what should you do to make yourself more visible to other road users?",
+        "options": [
+            "Ride in the blind spots of other vehicles",
+            "Use the motorcycle's horn frequently",
+            "Wear brightly colored clothing and use reflective materials",
+            "Ride close to the center line of the road"
+        ],
+        "answer": "Wear brightly colored clothing and use reflective materials"
+    },
+    {
+        "id": "8",
+        "question" : "What is the legal blood alcohol concentration (BAC) limit for motorcycle riders in Nepal?",
+        "options": [
+            "0.02%",
+            "0.04%",
+            "0.06%",
+            "0.08%"
+        ],
+        "answer": "0.02%"
+    },
+    {
+        "id": "9",
+        "question" : "When riding a motorcycle, what should you do if it starts to rain?",
+        "options": [
+            "Increase speed to get to your destination faster",
+            "Continue at the same speed",
+            "Pull over and wait for the rain to stop",
+            "Reduce speed and increase following distance"
+        ],
+        "answer": "Reduce speed and increase following distance"
+    },
+    {
+        "id": "10",
+        "question" : "What is the first thing you should check before starting a motorcycle?",
+        "options": [
+            "Brakes",
+            "Lights and indicators",
+            "Oil level",
+            "Tire pressure"
+        ],
+        "answer": "Lights and indicators"
+    },
+    {
+            "id": "11",
+            "question" : "What should you do if you experience a tire blowout while riding?",
+            "options": [
+                "Brake hard to stop quickly",
+                "Grip the handlebars firmly and ease off the throttle",
+                "Accelerate to maintain control",
+                "Swerve to the side of the road"
+            ],
+            "answer": "Grip the handlebars firmly and ease off the throttle"
+        },
+        {
+            "id": "12",
+            "question" : "When should you use your motorcycle's horn?",
+            "options": [
+                "To greet other riders",
+                "To alert others of your presence in a non-emergency situation",
+                "To express frustration with other road users",
+                "To indicate your intention to overtake"
+            ],
+            "answer": "To alert others of your presence in a non-emergency situation"
+        },
+        {
+            "id": "13",
+            "question" : "What is the primary purpose of wearing proper riding gear?",
+            "options": [
+                "To look stylish",
+                "To stay cool in hot weather",
+                "To reduce wind resistance",
+                "To protect yourself in case of a fall or accident"
+            ],
+            "answer": "To protect yourself in case of a fall or accident"
+        },
+        {
+            "id": "14",
+            "question" : "What should you do before changing lanes or making a turn?",
+            "options": [
+                "Signal your intention and check your mirrors",
+                "Speed up to merge quickly",
+                "Assume others will give you space",
+                "Check your phone for messages"
+            ],
+            "answer": "Signal your intention and check your mirrors"
+        },
+        {
+            "id": "15",
+            "question" : "What is the correct riding position for maximum control and stability?",
+            "options": [
+                "Leaning as far as possible into turns",
+                "Upright position with a relaxed grip on the handlebars",
+                "Leaning back while turning",
+                "Extending your legs outward while turning"
+            ],
+            "answer": "Upright position with a relaxed grip on the handlebars"
+        },
+        {
+            "id": "16",
+            "question" : "What is the recommended minimum following distance when riding a motorcycle?",
+            "options": [
+                "1 second",
+                "2 seconds",
+                "3 seconds",
+                "4 seconds"
+            ],
+            "answer": "2 seconds"
+        },
+        {
+            "id": "17",
+            "question" : "What is the maximum allowable blood alcohol concentration (BAC) for a motorcycle rider under 21 years of age in Nepal?",
+            "options": [
+                "0.00%",
+                "0.02%",
+                "0.04%",
+                "0.06%"
+            ],
+            "answer": "0.00%"
+        },
+        {
+            "id": "18",
+            "question" : "What does it mean if you see a hand signal from a vehicle ahead of you?",
+            "options": [
+                "They are waving hello",
+                "They are indicating a turn or stop",
+                "They are indicating a lane change",
+                "They are asking for directions"
+            ],
+            "answer": "They are indicating a turn or stop"
+        },
+        {
+            "id": "19",
+            "question" : "When should you use both brakes on your motorcycle for maximum stopping power?",
+            "options": [
+                "Only in emergencies",
+                "Only at high speeds",
+                "In normal braking situations",
+                "Never use both brakes at the same time"
+            ],
+            "answer": "In normal braking situations"
+        },
+        {
+            "id": "20",
+            "question" : "What should you do if you are being tailgated by another vehicle?",
+            "options": [
+                "Speed up to create more space",
+                "Brake suddenly to warn the driver",
+                "Change lanes and let them pass",
+                "Ignore them and continue at your current speed"
+            ],
+            "answer": "Change lanes and let them pass"
+        },
+        {
+            "id": "21",
+            "question" : "When riding a motorcycle, what should you do to increase your visibility to other road users?",
+            "options": [
+                "Use high beam headlights at all times",
+                "Wear dark clothing to stand out against the road",
+                "Keep a safe distance from other vehicles",
+                "Use signals and position yourself conspicuously"
+            ],
+            "answer": "Use signals and position yourself conspicuously"
+        },
+        {
+            "id": "22",
+            "question" : "What should you do if your motorcycle starts skidding?",
+            "options": [
+                "Brake hard to regain control",
+                "Steer in the opposite direction of the skid",
+                "Continue in the same direction of the skid",
+                "Let go of the handlebars"
+            ],
+            "answer": "Steer in the opposite direction of the skid"
+        },
+        {
+            "id": "23",
+            "question" : "In Nepal, what is the legal speed limit for motorcycles on highways?",
+            "options": [
+                "40 km/h",
+                "50 km/h",
+                "60 km/h",
+                "80 km/h"
+            ],
+            "answer": "80 km/h"
+        },
+        {
+            "id": "24",
+            "question" : "When approaching a blind intersection, what should you do?",
+            "options": [
+                "Accelerate to pass through quickly",
+                "Honk your horn repeatedly",
+                "Slow down and be prepared to stop",
+                "Close your eyes and hope for the best"
+            ],
+            "answer": "Slow down and be prepared to stop"
+        },
+        {
+            "id": "25",
+            "question" : "What is the correct hand signal for indicating a right turn?",
+            "options": [
+                "Extend your left arm straight out",
+                "Extend your right arm straight out",
+                "Extend your left arm and point upwards",
+                "Extend your left arm and point to the right"
+            ],
+            "answer": "Extend your left arm and point to the right"
+        },
+        {
+            "id": "26",
+            "question" : "What is the correct procedure for starting a parked motorcycle?",
+            "options": [
+                "Shift into first gear and release the clutch quickly",
+                "Apply the brakes and accelerate at the same time",
+                "Pull in the clutch, shift into neutral, and start the engine",
+                "Hold the clutch, shift into fifth gear, and release the clutch slowly"
+            ],
+            "answer": "Pull in the clutch, shift into neutral, and start the engine"
+        },
+        {
+            "id": "27",
+            "question" : "What does it mean if your motorcycle's engine suddenly stalls while riding?",
+            "options": [
+                "Your motorcycle needs maintenance",
+                "The brakes are failing",
+                "You should shift to a higher gear",
+                "You should downshift to a lower gear"
+            ],
+            "answer": "You should downshift to a lower gear"
+        },
+        {
+            "id": "28",
+            "question" : "When riding a motorcycle, where should you position yourself within a lane?",
+            "options": [
+                "Always in the center of the lane",
+                "As close to the left edge of the lane as possible",
+                "As close to the right edge of the lane as possible",
+                "Depends on traffic conditions and road width"
+            ],
+            "answer": "Depends on traffic conditions and road width"
+        },
+        {
+            "id": "29",
+            "question" : "What should you do if you experience a wobble or instability while riding?",
+            "options": [
+                "Apply the brakes abruptly",
+                "Grip the handlebars firmly and slow down gradually",
+                "Accelerate to try to stabilize the motorcycle",
+                "Take your feet off the foot pegs"
+            ],
+            "answer": "Grip the handlebars firmly and slow down gradually"
+        },
+        {
+            "id": "30",
+            "question" : "What should you do if you witness a collision or accident on the road?",
+            "options": [
+                "Ignore it and continue riding",
+                "Stop and provide assistance if possible, and call for help",
+                "Take pictures and post them on social media",
+                "Blame the victims for not being careful"
+            ],
+            "answer": "Stop and provide assistance if possible, and call for help"
+        },
+        {
+            "id": "31",
+            "question" : "What should you do if you encounter strong crosswinds while riding?",
+            "options": [
+                "Lean into the wind to maintain balance",
+                "Lean away from the wind to maintain balance",
+                "Come to a complete stop and wait for the wind to subside",
+                "Swerve left and right to counter the wind"
+            ],
+            "answer": "Lean into the wind to maintain balance"
+        },
+        {
+            "id": "32",
+            "question" : "What is the purpose of engine oil in a motorcycle?",
+            "options": [
+                "To cool down the engine",
+                "To lubricate engine components and reduce friction",
+                "To increase fuel efficiency",
+                "To regulate exhaust emissions"
+            ],
+            "answer": "To lubricate engine components and reduce friction"
+        },
+        {
+            "id": "33",
+            "question" : "When riding in a group, what should you maintain to ensure safety?",
+            "options": [
+                "Ride as close as possible to the rider in front",
+                "Maintain a staggered formation and proper spacing",
+                "Ride in a single file to reduce confusion",
+                "Ride in a parallel formation for better visibility"
+            ],
+            "answer": "Maintain a staggered formation and proper spacing"
+        },
+        {
+            "id": "34",
+            "question" : "What should you do if your motorcycle's throttle becomes stuck while riding?",
+            "options": [
+                "Panic and apply the brakes hard",
+                "Shift to neutral and use the brakes to slow down",
+                "Twist the throttle back and forth to release it",
+                "Increase your speed to get to a safe area"
+            ],
+            "answer": "Shift to neutral and use the brakes to slow down"
+        },
+        {
+            "id": "35",
+            "question" : "What is the correct procedure for taking a turn on a motorcycle?",
+            "options": [
+                "Brake hard before the turn, then accelerate through the turn",
+                "Accelerate through the turn",
+                "Brake during the turn",
+                "Slow down before the turn and accelerate gently through the turn"
+            ],
+            "answer": "Slow down before the turn and accelerate gently through the turn"
+        },
+        {
+            "id": "36",
+            "question" : "What is the primary purpose of wearing proper footwear while riding a motorcycle?",
+            "options": [
+                "To make a fashion statement",
+                "To keep your feet cool",
+                "To improve fuel efficiency",
+                "To protect your feet and provide proper grip on the foot pegs"
+            ],
+            "answer": "To protect your feet and provide proper grip on the foot pegs"
+        },
+        {
+            "id": "37",
+            "question" : "What is the correct hand signal for indicating a left turn?",
+            "options": [
+                "Extend your left arm straight out",
+                "Extend your right arm straight out",
+                "Extend your left arm and point upwards",
+                "Extend your left arm and point to the left"
+            ],
+            "answer": "Extend your left arm and point to the left"
+        },
+        {
+            "id": "38",
+            "question" : "What should you do if you see a vehicle with a 'Learner' sign on the road?",
+            "options": [
+                "Overtake it quickly",
+                "Be patient and give them space",
+                "Honk at them to hurry up",
+                "Tailgate them to pressure them to go faster"
+            ],
+            "answer": "Be patient and give them space"
+        },
+        {
+            "id": "39",
+            "question" : "In Nepal, what is the minimum legal tread depth for motorcycle tires?",
+            "options": [
+                "1.0 mm",
+                "1.5 mm",
+                "2.0 mm",
+                "2.5 mm"
+            ],
+            "answer": "1.0 mm"
+        },
+        {
+            "id": "40",
+            "question" : "What should you do if you experience a sudden puncture or blowout in a tire while riding?",
+            "options": [
+                "Brake hard to stop quickly",
+                "Accelerate to maintain control",
+                "Grip the handlebars firmly and gradually reduce speed",
+                "Swerve to the side of the road"
+            ],
+            "answer": "Grip the handlebars firmly and gradually reduce speed"
+        },
+        {
+            "id": "41",
+            "question" : "When riding in heavy rain, what should you do to improve visibility?",
+            "options": [
+                "Turn off the headlights to reduce glare",
+                "Ride in the center of the lane",
+                "Use high beam headlights",
+                "Use low beam headlights and increase following distance"
+            ],
+            "answer": "Use low beam headlights and increase following distance"
+        },
+        {
+            "id": "42",
+            "question" : "What should you do if you encounter gravel or loose debris on the road while riding?",
+            "options": [
+                "Accelerate to get through it quickly",
+                "Brake hard to avoid skidding",
+                "Maintain a steady speed and ride straight through",
+                "Swerve and change lanes"
+            ],
+            "answer": "Maintain a steady speed and ride straight through"
+        },
+        {
+            "id": "43",
+            "question" : "What is the correct procedure for carrying a passenger on your motorcycle?",
+            "options": [
+                "Instruct them to hold onto your waist and lean with you",
+                "Instruct them to hold onto the seat and lean in the opposite direction",
+                "Instruct them to hold onto the handlebars",
+                "Instruct them to hold onto the fuel tank"
+            ],
+            "answer": "Instruct them to hold onto your waist and lean with you"
+        },
+        {
+            "id": "44",
+            "question" : "In Nepal, what is the legal requirement for using a horn on a motorcycle?",
+            "options": [
+                "Horn should be used frequently to clear traffic",
+                "Horn should not be used unnecessarily",
+                "Horn should be used only during the night",
+                "Horn should be used continuously while riding"
+            ],
+            "answer": "Horn should not be used unnecessarily"
+        },
+        {
+            "id": "45",
+            "question" : "What is the proper way to navigate a curve or turn on a motorcycle?",
+            "options": [
+                "Brake hard while turning",
+                "Lean your body without leaning the motorcycle",
+                "Lean the motorcycle and your body together in the direction of the turn",
+                "Accelerate while turning"
+            ],
+            "answer": "Lean the motorcycle and your body together in the direction of the turn"
+        },
+        {
+            "id": "46",
+            "question" : "What should you do if you are about to collide with another vehicle?",
+            "options": [
+                "Brake hard to stop",
+                "Swerve quickly to avoid the collision",
+                "Stay in your lane and brace for impact",
+                "Sound your horn repeatedly"
+            ],
+            "answer": "Brake hard to stop"
+        },
+        {
+            "id": "47",
+            "question" : "What is the primary cause of motorcycle accidents at intersections?",
+            "options": [
+                "Motorcycles being too fast",
+                "Other vehicles failing to yield the right of way",
+                "Poor road conditions",
+                "Weather conditions"
+            ],
+            "answer": "Other vehicles failing to yield the right of way"
+        },
+        {
+            "id": "48",
+            "question" : "What is the correct lane position for avoiding oil patches or slippery surfaces?",
+            "options": [
+                "Ride in the left portion of the lane",
+                "Ride in the center portion of the lane",
+                "Ride in the right portion of the lane",
+                "Constantly switch between lanes"
+            ],
+            "answer": "Ride in the center portion of the lane"
+        },
+        {
+            "id": "49",
+            "question" : "What should you do if you encounter an aggressive driver on the road?",
+            "options": [
+                "Engage in a race with them",
+                "Make gestures and provoke them",
+                "Ignore them and continue riding safely",
+                "Tailgate and confront them"
+            ],
+            "answer": "Ignore them and continue riding safely"
+        },
+        {
+            "id": "50",
+            "question" : "In Nepal, what is the legal requirement for wearing a helmet while riding a motorcycle?",
+            "options": [
+                "Helmets are not mandatory",
+                "Helmets are mandatory only for new riders",
+                "Helmets are mandatory for all riders and passengers",
+                "Helmets are mandatory only on highways"
+            ],
+            "answer": "Helmets are mandatory for all riders and passengers"
+        },
+        {
+            "id": "51",
+            "question" : "What is the primary cause of most motorcycle accidents?",
+            "options": [
+                "Brake failure",
+                "Excessive speeding",
+                "Poor road conditions",
+                "Engine malfunction"
+            ],
+            "answer": "Excessive speeding"
+        },
+        {
+            "id": "52",
+            "question" : "When should you use your motorcycle's indicators or turn signals?",
+            "options": [
+                "Only during emergencies",
+                "Whenever you feel like it",
+                "Before changing lanes or turning",
+                "Only when riding in a group"
+            ],
+            "answer": "Before changing lanes or turning"
+        },
+        {
+            "id": "53",
+            "question" : "In Nepal, what is the legal requirement for using rear-view mirrors on a motorcycle?",
+            "options": [
+                "Mirrors are optional",
+                "At least one mirror is mandatory",
+                "Mirrors are required only for high-speed riding",
+                "Mirrors are required only for new motorcycles"
+            ],
+            "answer": "At least one mirror is mandatory"
+        },
+        {
+            "id": "54",
+            "question" : "What should you do if you are being tailgated by another vehicle?",
+            "options": [
+                "Speed up and try to lose them",
+                "Increase your following distance",
+                "Brake suddenly to warn them",
+                "Wave at them to go around you"
+            ],
+            "answer": "Increase your following distance"
+        },
+        {
+            "id": "55",
+            "question" : "When should you use your motorcycle's high beam headlights?",
+            "options": [
+                "At all times for better visibility",
+                "Only in urban areas",
+                "Only during the day",
+                "When riding in remote areas with no traffic"
+            ],
+            "answer": "When riding in remote areas with no traffic"
+        },
+        {
+            "id": "56",
+            "question" : "In Nepal, what is the legal age requirement for a pillion (passenger) on a motorcycle?",
+            "options": [
+                "No age restriction for pillion riders",
+                "At least 12 years old",
+                "At least 16 years old",
+                "At least 18 years old"
+            ],
+            "answer": "At least 12 years old"
+        },
+        {
+            "id": "57",
+            "question" : "What should you do if you experience a 'tank slapper' or handlebar wobble?",
+            "options": [
+                "Accelerate to stabilize the motorcycle",
+                "Brake hard to stop",
+                "Grip the handlebars firmly and ease off the throttle",
+                "Let go of the handlebars and brace for impact"
+            ],
+            "answer": "Grip the handlebars firmly and ease off the throttle"
+        },
+        {
+            "id": "58",
+            "question" : "What is the correct procedure for riding in strong crosswinds?",
+            "options": [
+                "Lean into the wind to maintain balance",
+                "Lean away from the wind to maintain balance",
+                "Maintain a straight upright position",
+                "Stop and wait for the wind to subside"
+            ],
+            "answer": "Maintain a straight upright position"
+        },
+        {
+            "id": "59",
+            "question" : "When is it appropriate to share a lane with another vehicle?",
+            "options": [
+                "Always, for better visibility",
+                "Only when traffic is moving slowly",
+                "Never, it's unsafe",
+                "Only when overtaking another vehicle"
+            ],
+            "answer": "Never, it's unsafe"
+        },
+        {
+            "id": "60",
+            "question" : "What should you do if you experience a sudden rain shower while riding?",
+            "options": [
+                "Ride at your normal speed and you'll get through it quickly",
+                "Brake hard to reduce speed",
+                "Pull over and wait for the rain to stop",
+                "Reduce speed and increase following distance"
+            ],
+            "answer": "Reduce speed and increase following distance"
+        }
+    
+]
